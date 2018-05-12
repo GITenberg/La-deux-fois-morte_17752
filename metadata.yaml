@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7273
     wikipedia: http://fr.wikipedia.org/wiki/Jules_Lermina
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17752#La-deux-fois-morte
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-02-11'
 gutenberg_type: Text
